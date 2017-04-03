@@ -3,6 +3,8 @@ public class Mickael {
 	protected String nom;
 	protected Integer age;
 	
+	protected String description;
+	
 	
 	public Mickael() {
 		// TODO Auto-generated constructor stub
