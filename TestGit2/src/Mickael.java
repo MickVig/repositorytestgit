@@ -5,7 +5,7 @@ public class Mickael {
 
 	
 	protected String description;
-	
+	protected Integer taille;
 
 	protected String prenom;
 
