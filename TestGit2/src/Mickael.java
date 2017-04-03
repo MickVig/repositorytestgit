@@ -2,9 +2,17 @@
 public class Mickael {
 	protected String nom;
 	protected Integer age;
+
 	
 	protected String description;
 	
+
+	protected String prenom;
+
+	public String maPetiteRoutine(){
+		return "ok";
+	}
+
 	
 	public Mickael() {
 		// TODO Auto-generated constructor stub
@@ -15,6 +23,4 @@ public class Mickael {
 		this.nom = nom;
 		this.age = age;
 	}
-	
-	
 }
