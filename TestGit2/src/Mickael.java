@@ -2,6 +2,7 @@
 public class Mickael {
 	protected String nom;
 	protected Integer age;
+	protected String prenom;
 
 	public String maPetiteRoutine(){
 		return "ok";
